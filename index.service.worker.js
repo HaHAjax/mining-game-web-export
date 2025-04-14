@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1744645463|2964557068';
+const CACHE_VERSION = '1744646051|94792396';
 /** @type {string} */
 const CACHE_PREFIX = 'Mining Game-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
